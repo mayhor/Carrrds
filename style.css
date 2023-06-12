@@ -1,0 +1,11 @@
+.card {
+    position: absolute;
+    height: var(--card-height);
+    width: var(--card-width);
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
