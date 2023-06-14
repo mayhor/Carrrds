@@ -219,7 +219,7 @@ header {
 }
 
 #playGame:hover {
-    color: #f7d4d4;
+    color: linear-gradient(to right, #6dd5ed, #2193b0);
     background-color: #1A1A1A;
     box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
     transform: translateY(-2px);
