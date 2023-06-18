@@ -6,9 +6,11 @@
 [Adeniyi Funmi](https://www.linkedin.com/in/oluwafunmilayo-adeniyi-659204186)
 
 # INSTALLATION
-
+- HTML
+- CSS
+- JavaScript
 # USAGE
+Web usage
 
-# CONTRIBUTING
 
 
